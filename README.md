@@ -14,9 +14,9 @@ notebooks/: This directory contains the Jupyter Notebook files where the data pr
 
 iris_classification.ipynb: The main Jupyter Notebook file containing the project code and explanations.
 
-data/: This directory stores the dataset files.
+data/: This directory stores the dataset file
 
-iris.csv: The Iris dataset in CSV format, downloaded from Kaggle.
+IRIS.csv: The Iris dataset in CSV format, downloaded from Kaggle.
 
 images/: This directory holds any images used in the project.
 
@@ -28,7 +28,7 @@ Getting Started
 To run the project locally, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/sherinjim/iris-flowers-classification-ML-repo.git
+git clone https://github.com/Squalidprasath/Iris-flower-classification.git
 
 2.Open the Jupyter Notebook:
 jupyter notebook notebooks/Iris flower classification ML(1).ipynb
